@@ -1,8 +1,3 @@
-<style>
-  #but{
-  background-color: red;
-  }
-</style>
 
 - 👋 Hi, I’m @Cdev31 lover of mathematics and physics, piano lover and backend dev
 - 👀 I’m interested in backend technologies especially in node js, cybersecurity and web3
@@ -15,4 +10,4 @@ Cdev31/Cdev31 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<button id="but">Express js</button>
+
